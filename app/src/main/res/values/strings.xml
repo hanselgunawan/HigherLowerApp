@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HigherLower</string>
+    <string name="incorrect_message">You\'re Wrong!</string>
+    <string name="correct_message">You\'re Right!</string>
 </resources>
